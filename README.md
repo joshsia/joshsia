@@ -16,7 +16,7 @@ Reached goal in 85 steps             |  Reached goal in 99 steps
 
 <br />
 
-- Developed a Java app to label position of ants in a video - [App](https://github.com/joshsia/Ants), [Servlet](https://github.com/joshsia/AntsServlet)
+- Developed a Java app to label positions of ants in a video - [App](https://github.com/joshsia/Ants), [Servlet](https://github.com/joshsia/AntsServlet)
 
 Landing page             |  Tracking page
 :-------------------------:|:-------------------------:
