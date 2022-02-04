@@ -24,6 +24,12 @@ Landing page             |  Tracking page
 
 <br />
 
+- Developed a website to showcase auditory illusions and gather data on how different demographics perceive the illusions - [view](https://github.com/joshsia/auditory-illusions)
+
+![illusion-page](https://github.com/joshsia/auditory-illusions/blob/main/ui_img/illusion-page.png)
+
+<br />
+
 - Developed a Python and R package to analyse tweets - [Python](https://github.com/UBC-MDS/pytextprep), [R](https://github.com/UBC-MDS/textprepr)
 
 - Analysed the socioeconomic factors associated with COVID-19 prevalence - [view](https://github.com/UBC-MDS/DSCI_522_US_social_determinants_of_health_by_county)
