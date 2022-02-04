@@ -8,7 +8,7 @@ I'm currently a Master of Data Science student at the University of British Colu
 
 Some interesting projects I have worked on:
 
-- Using reinforcement learning (RL) to solve a random maze - [view](https://github.com/joshsia/random-maze-rl)
+- Used reinforcement learning (RL) to solve a random maze - [view](https://github.com/joshsia/random-maze-rl)
 
 Reached goal in 85 steps             |  Reached goal in 99 steps
 :-------------------------:|:-------------------------:
