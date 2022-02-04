@@ -12,7 +12,17 @@ Some interesting projects I have worked on:
 
 Reached goal in 85 steps             |  Reached goal in 99 steps
 :-------------------------:|:-------------------------:
-![](https://github.com/joshsia/random-maze-rl/blob/main/solved-maze2.png)  |  ![](https://github.com/joshsia/random-maze-rl/blob/main/solved-maze3.png)
+![solved-maze1](https://github.com/joshsia/random-maze-rl/blob/main/solved-maze2.png)  |  ![solved-maze2](https://github.com/joshsia/random-maze-rl/blob/main/solved-maze3.png)
+
+<br />
+
+- Developed a Java app to label position of ants in a video - [App](https://github.com/joshsia/Ants), [Servlet](https://github.com/joshsia/AntsServlet)
+
+Landing page             |  Tracking page
+:-------------------------:|:-------------------------:
+![landing-page](https://github.com/joshsia/Ants/blob/main/ui_images/landing-page.png)  |  ![tracking-page](https://github.com/joshsia/Ants/blob/main/ui_images/tracking-page.png)
+
+<br />
 
 - Developed a Python and R package to analyse tweets - [Python](https://github.com/UBC-MDS/pytextprep), [R](https://github.com/UBC-MDS/textprepr)
 
