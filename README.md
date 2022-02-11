@@ -30,7 +30,7 @@ Landing page             |  Tracking page
 
 <br />
 
-- Developed a Python and R package to analyse tweets - [Python](https://github.com/UBC-MDS/pytextprep), [R](https://github.com/UBC-MDS/textprepr)
+- Developed Python and R packages to analyse tweets - [Python](https://github.com/UBC-MDS/pytextprep), [R](https://github.com/UBC-MDS/textprepr)
 
 - Analysed the socioeconomic factors associated with COVID-19 prevalence - [view](https://github.com/UBC-MDS/DSCI_522_US_social_determinants_of_health_by_county)
 
