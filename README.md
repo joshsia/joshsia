@@ -8,6 +8,8 @@ I'm currently a Master of Data Science student at the University of British Colu
 
 Some interesting projects I have worked on:
 
+- Developed Python and R packages to analyse tweets - [Python](https://github.com/UBC-MDS/pytextprep), [R](https://github.com/UBC-MDS/textprepr)
+
 - Used reinforcement learning (RL) to solve a random maze - [view](https://github.com/joshsia/random-maze-rl)
 
 Reached goal in 85 steps             |  Reached goal in 99 steps
@@ -29,8 +31,6 @@ Landing page             |  Tracking page
 ![illusion-page](https://github.com/joshsia/auditory-illusions/blob/main/ui_img/illusion-page.png)
 
 <br />
-
-- Developed Python and R packages to analyse tweets - [Python](https://github.com/UBC-MDS/pytextprep), [R](https://github.com/UBC-MDS/textprepr)
 
 - Analysed the socioeconomic factors associated with COVID-19 prevalence - [view](https://github.com/UBC-MDS/DSCI_522_US_social_determinants_of_health_by_county)
 
