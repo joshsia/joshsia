@@ -22,8 +22,8 @@ Python          |  R |  Others
 - Ensemble methods [[1](https://github.com/joshsia/monkey-neural-decoder)]
 - Regression [[1](https://github.com/joshsia/DSCI_522_US_social_determinants_of_health_by_county?organization=joshsia&organization=joshsia)]
 - Mixed effects models [[1](https://github.com/joshsia/modelling-fungal-growth)]
-- Feature engineering [[1](https://github.com/joshsia/predict-text-disaster)]
-- Feature selection
+- Feature engineering [[1](https://github.com/joshsia/predict-text-disaster), [2](https://github.com/joshsia/predict-credit-default)]
+- Feature selection [[1](https://github.com/joshsia/predict-credit-default)]
 
 <br> 
 
@@ -32,4 +32,4 @@ Python          |  R |  Others
 - Git (branching, forking, merging, pull requests, code review) [[1](https://github.com/UBC-MDS/pytextprep), [2](https://github.com/UBC-MDS/textprepr), [3](https://github.com/joshsia/DSCI_522_US_social_determinants_of_health_by_county?organization=joshsia&organization=joshsia)]
 - Automated CI/CD workflows [[1](https://github.com/UBC-MDS/pytextprep), [2](https://github.com/joshsia/DSCI_522_US_social_determinants_of_health_by_county?organization=joshsia&organization=joshsia), [3](https://github.com/joshsia/seam-carving)]
 - Docker [[1](https://github.com/joshsia/DSCI_522_US_social_determinants_of_health_by_county?organization=joshsia&organization=joshsia), [2](https://github.com/joshsia/markov-language-model), [3](https://github.com/joshsia/seam-carving)]
-- Data science pipeline [[1](https://github.com/joshsia/DSCI_522_US_social_determinants_of_health_by_county?organization=joshsia&organization=joshsia)]
+- Data science pipeline [[1](https://github.com/joshsia/DSCI_522_US_social_determinants_of_health_by_county?organization=joshsia&organization=joshsia), [2](https://github.com/joshsia/predict-credit-default)]
