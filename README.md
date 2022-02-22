@@ -1,8 +1,8 @@
 ## About Me
 
-Hello! 
+Hello!
 
-I'm currently a Master of Data Science student at the University of British Columbia and I will be graduating in June 2022. Prior to this, I was a student at Imperial College London where I graduated with an MEng degree in Biomedical Engineering.
+My name is Joshua, I'm 21 years old, and I'm currently a Master of Data Science student at the University of British Columbia (graduating in June 2022). Prior to this, I was a student at Imperial College London where I graduated with an MEng degree in Biomedical Engineering.
 
 ### Repositories
 
