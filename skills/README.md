@@ -18,7 +18,6 @@ Python          |  R |  Others
 - Supervised learning [[1](https://github.com/joshsia/monkey-neural-decoder), [2](https://github.com/joshsia/predict-text-disaster)]
 - Unsupervised learning [[1](https://github.com/joshsia/haptics-classification)]
 - Reinforcement learning [[1](https://github.com/joshsia/random-maze-rl), [2](https://github.com/joshsia/gridworld-rl)]
-- Deep learning
 - Ensemble methods [[1](https://github.com/joshsia/monkey-neural-decoder), [2](https://github.com/joshsia/predict-credit-default)]
 - Regression [[1](https://github.com/joshsia/DSCI_522_US_social_determinants_of_health_by_county?organization=joshsia&organization=joshsia)]
 - Mixed effects models [[1](https://github.com/joshsia/modelling-fungal-growth)]
