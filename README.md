@@ -8,6 +8,9 @@ My name is Joshua, I'm 22 years old, and I have 2 Master's degrees in Data Scien
 
 Some interesting projects I have worked on:
 
+- Developed a personal finance tracking tool - [view](https://github.com/joshsia/personal-finance)
+![screenshot](https://github.com/joshsia/personal-finance/blob/main/app-screenshot.png)
+
 - Developed a dashboard to visualize data science salaries around the world - [dashboard](https://datasci-salaries-py.herokuapp.com/), [source code](https://github.com/UBC-MDS/datasci_salaries_py)
 
 - Developed Python and R packages to analyse tweets - [Python](https://github.com/UBC-MDS/pytextprep), [R](https://github.com/UBC-MDS/textprepr)
