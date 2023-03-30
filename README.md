@@ -2,8 +2,6 @@
 
 Hello!
 
-My name is Joshua, I'm 22 years old, and I have 2 Master's degrees in Data Science and Biomedical Engineering from The University of British Columbia and Imperial College London respectively.
-
 ### Repositories
 
 Some interesting projects I have worked on:
